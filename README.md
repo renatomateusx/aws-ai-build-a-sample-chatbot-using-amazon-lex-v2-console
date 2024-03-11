@@ -11,7 +11,7 @@
 * 7 - Validation of the lab
 
 # Project Arc
-![image](https://github.com/renatomateusx/aws-ai-build-a-sample-chatbot-using-amazon-lex-v2-console/assets/4579323/37c7f6f9-4d1b-463b-8f98-afc7bbf5ae07)
+![image_arch](https://github.com/renatomateusx/aws-ai-build-a-sample-chatbot-using-amazon-lex-v2-console/assets/4579323/0384c3f4-aae7-4014-98ee-71442704737a)
 
 
 # Project Preview
